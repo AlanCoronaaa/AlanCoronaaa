@@ -24,10 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoronaaa&show_icons=true&locale=en" alt="alancoronaaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alancoronaaa&" alt="alancoronaaa" /></p>
-<!-- SVGs -->
-[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
-[fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
-
-## <img alt="emoji" src="https://octicons.alancoronaa.ch/mark-github/c9d1d9" height="30em"> Hello there!
-My name is Alan  
-  
