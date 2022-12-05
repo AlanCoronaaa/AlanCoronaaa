@@ -31,29 +31,3 @@
 ## <img alt="emoji" src="https://octicons.alancoronaa.ch/mark-github/c9d1d9" height="30em"> Hello there!
 My name is Alan  
   
-
-## <img alt="emoji" src="https://octicons.alancoronaa.ch/graph/c9d1d9" height="30em"> Statistics
-<img src="https://github.com/alancoronaa/alancoronaa/blob/master/.cache/stats-base.svg">
-
-<img src="https://github.com/alancoronaa/alancoronaa/blob/master/.cache/stats-commits-iso.svg">
-
-<img src="https://github.com/alancoronaa/alancoronaa/blob/master/.cache/stats-issues-prs.svg">
-
-### <img alt="emoji" src="https://octicons.andre601.ch/star-fill/c9d1d9" height="25em"> Recently starred
-<img src="https://github.com/alancoronaa/alancoronaa/blob/master/.cache/stats-stars.svg">
-
-### <img alt="emoji" src="https://octicons.alancoronaa.ch/code-review/c9d1d9" 
-
-
-## <img alt="emoji" src="https://octicons.alancoronaa.ch/repo/c9d1d9" height="30em"> Repositories
-
-### <img alt="emoji" src="https://octicons.alancoronaa.ch/star-fill/c9d1d9" height="25em"> Most starred
-
-<img src="https://github.com/alancoronaa/alancoronaa/blob/master/.cache/stats-starred-repo.svg">
-
-### <img alt="emoji" src="https://octicons.alancoronaa.ch/tasklist/c9d1d9" height="25em"> Random picks
-
-<img src="https://github.com/alancoronaa/alancoronaa/blob/master/.cache/stats-random-repo.svg">
-
-## <img alt="emoji" src="https://octicons.alancoronaa.ch/link/c9d1d9" height="30em"> Links
-</a>
