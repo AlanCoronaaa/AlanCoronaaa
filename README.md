@@ -7,7 +7,7 @@
 
 - I’m currently learning **Advance C++ and machine lerning**
 
-- ⚡ Fun fact **I think i am funny and handsome**
+- Fun fact **I think i am funny and handsome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
