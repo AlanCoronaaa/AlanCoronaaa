@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alan Corona</h1>
-<h3 align="center">A software Engineer Student from Mexico</h3>
+<h3 align="center">B.S In Computer Science and Technology @Tecnológico de Monterrey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=0e75b6&style=flat" alt="alancoronaaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alancoronaaa" alt="alancoronaaa" /></a> </p>
 
-- I’m currently learning **Advance C++ and machine lerning**
-
-- ⚡ Fun fact **I think i am funny and handsome**
+- I'm currently learning **Advance C++ and machine lerning**
+- Fun fact **I think i am funny and handsome**
+- I'm from **Manzanillo, Colima. Mex**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
