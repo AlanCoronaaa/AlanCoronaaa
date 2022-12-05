@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alancoronaaa" alt="alancoronaaa" /></a> </p>
 
 - I'm currently learning **Advance C++ and machine lerning**
-- Fun fact **I think i am funny and handsome**
+- Fun fact **I think i'm funny and handsome**
 - I'm from **Manzanillo, Colima. Mex**
 
 <h3 align="left">Connect with me:</h3>
