@@ -3,7 +3,7 @@
 <h3 align="center">Tecnológico de Monterrey | Campus Guadalajara</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=0e75b6&style=flat" alt="alancoronaaa" /> </p>
 
-- I'm currently learning **Advance C++, machine lerning** and implementing an online game.
+- I'm currently learning **Advance C++, machine lerning**, giving **Leetcode** hard and implementing an online game with his client.
 - Fun fact **I think I'm funny and handsome**
 - I'm from **Manzanillo, Colima. Mex**
 
