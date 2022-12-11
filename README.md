@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=0e75b6&style=flat" alt="alancoronaaa" /> </p>
 
 - I'm currently learning **Advance C++, machine learning**, giving **Leetcode** hard and implementing an online game with his client.
-- Fun fact **I think I'm funny and handsome**
+- Fun fact **I think I'm funny and handsome.**
 - I'm from **Manzanillo, Colima.**
 
 <h3 align="left">Connect with me:</h3>
