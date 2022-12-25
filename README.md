@@ -29,4 +29,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoronaaa&show_icons=true&locale=en" alt="alancoronaaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alancoronaaa&theme=default" alt="alancoronaaa" /></p>
+ #!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class ComputerEngineer:
+    def __init__(self):
+        self.name    = "Alan Corona"
+        self.role    = "Software Engineer"
+        self.contact = "alan654gh@gmail.com"
+        self.work    = "Data Scientist and AI, Software, Network Systems, Web Developer, Hacking and Cybersecurity"
+        self.learn   = "Game Programming"
+    
+    def getCity():
+        return Guadalajara_Mexico()
+
+me =SoftwareEngineer()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
