@@ -11,7 +11,7 @@
          self.career  = "B.s In Computer Science and Technology"
          self.role    = "SoftWare Engineer"
          self.contact = "alan654gh@gmail.com"
-         self.work    = "Data Scientist and AI, CyberSecurity and Hacking, Software Engineer,                              Network Systems, Web Developer"
+         self.work    = "Data Scientist and AI, CyberSecurity and Hacking, Software Engineer, Network Systems, Web Developer"
          self.learn   = "Game Programming"
          self.things  = " Go to the gym, video games and anime.
 
