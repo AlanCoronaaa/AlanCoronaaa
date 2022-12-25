@@ -1,8 +1,24 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<h1 align="center"><b>Hi , I'm Alan Corona </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Alan Corona </b><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
+    #!/usr/bin/python
+    # -*- coding: utf-8 -*-
+
+    class ComputerEngineer:
+     def __init__(self):
+         self.name    = "Alan Corona"
+         self.carrer  = "B.s In Computer Science and Technology"
+         self.role    = "SoftWare Engineer"
+         self.contact = "alan654gh@gmail.com"
+         self.work    = "Data Scientist and AI, CyberSecurity and Hacking, Software Engineer, Network Systems, Web Developer"
+         self.learn   = "Game Programming"
+    
+     def getCity():
+        return Guadalajara_Mexico()
+    me = SoftwareEngineer()
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h3 align="center">B.S In Computer Science and Technology</h3><h3 align="center">Tecnológico de Monterrey | Campus Guadalajara</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h3 align="center">Tecnológico de Monterrey | Campus Guadalajara</h3>
  <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=b40e40&style=flat-square" alt="alancoronaaa" /> </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -29,21 +45,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoronaaa&show_icons=true&locale=en" alt="alancoronaaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alancoronaaa&theme=default" alt="alancoronaaa" /></p>
- 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class ComputerEngineer:
-    def __init__(self):
-        self.name    = "Alan Corona"
-        self.role    = "Engineer"
-        self.contact = "alan654gh@gmail.com"
-        self.work    = "Data Scientist and AI, CyberSecurity and Hacking, Software Engineer, Network Systems, Web Developer"
-        self.learn   = "Game Programming"
-    
-    def getCity():
-        return Guadalajara_Mexico()
-
-me = SoftwareEngineer()
- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
