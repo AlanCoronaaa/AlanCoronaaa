@@ -4,6 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=b40e40&style=flat-square" alt="alancoronaaa" /> </p>
 
 - I'm currently learning **Advance C++, machine learning**, giving **Leetcode** hard and implementing an online game with his client.
+
+-  Also I am doing a Bootcamp of Cybersecurity and Ethical Hacking, malware analysis, social engineering and main methodologies, standards and reference frameworks within the Cybersecurity sector such as **OWASP, ISO 27001, NIST, among others**.
+
+- Using the main computer security tools: **Nmap, Zenmap, Wireshark, Kali Linux Penetration Testing and Burp Suite**.
+
 - Fun fact **I think I'm funny and handsome.**
 - I'm from **Manzanillo, Colima.**
 
