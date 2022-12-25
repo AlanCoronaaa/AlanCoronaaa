@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alan Corona</h1>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+Hi 👋, I'm Alan Corona</h1>
 <h3 align="center">B.S In Computer Science and Technology</h3><h3 align="center">Tecnológico de Monterrey | Campus Guadalajara</h3>
  <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=b40e40&style=flat-square" alt="alancoronaaa" /> </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -8,7 +10,6 @@
 - Creation of language processing models for text classification and sentiment analysis, taking advantage of the foundations of this branch of Deep Learning.
 
 -  I am also doing a Cybersecurity and Ethical Hacking Bootcamp, malware analysis, social engineering, knowing the main methodologies, standards and reference frameworks within the Cybersecurity sector such as OWASP, ISO 27001, NIST, among others. And applying them in a real business environment. Using the main computer security tools: **Nmap, Zenmap, Wireshark, Kali Linux Penetration Testing and Burp Suite**.
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"width = 50px></picture><p align="left"> 
 - Using the advanced tools used in Ethical Hacking and thus creating a protected environment within organizations. Protecting the digital assets of any organization.
 
 <h3 align="left">Connect with me:</h3>
