@@ -1,6 +1,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <h1 align="center"><b>Hi , I'm Alan Corona </b><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-
+```python
     #!/usr/bin/python
     # -*- coding: utf-8 -*-
 
@@ -23,7 +23,7 @@
      pass
 
     me = SoftwareEngineer()
-
+```
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h3 align="center">Tecnológico de Monterrey | Campus Guadalajara</h3>
