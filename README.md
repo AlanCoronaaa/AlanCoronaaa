@@ -4,10 +4,7 @@
 ```python
     #!/usr/bin/python
     # -*- coding: utf-8 -*-
-
-    class Guadalajara_Mexico:
-     pass
-
+    
     class ComputerEngineer:
     def __init__(self):
          self.name    = "Alan Corona"
