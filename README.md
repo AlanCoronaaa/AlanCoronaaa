@@ -11,7 +11,7 @@
     class ComputerEngineer:
      def __init__(self):
          self.name    = "Alan Corona"
-         self.carrer  = "B.s In Computer Science and Technology"
+         self.career  = "B.s In Computer Science and Technology"
          self.role    = "SoftWare Engineer"
          self.contact = "alan654gh@gmail.com"
          self.work    = "Data Scientist and AI, CyberSecurity and Hacking, Software Engineer, Network Systems, Web Developer"
