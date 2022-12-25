@@ -3,8 +3,9 @@
 
     #!/usr/bin/python
     # -*- coding: utf-8 -*-
-    colorama.init(autoreset=True)
+    
     from colorama import init, Fore, Style
+    colorama.init(autoreset=True)
     print(f'{f"{Fore.WHITE}{Back.RED}"}')
 
     class ComputerEngineer:
