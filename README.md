@@ -3,14 +3,11 @@
 <h3 align="center">Tecnológico de Monterrey | Campus Guadalajara</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=b40e40&style=flat-square" alt="alancoronaaa" /> </p>
 
-- I'm currently learning **Advance C++, machine learning**, giving **Leetcode** hard and implementing an online game with his client.
+- I'm currently learning **Advance C++, machine learning**, giving **Leetcode** hard and implementing an online game.
 
 -  I am also doing a Cybersecurity and Ethical Hacking Bootcamp, malware analysis, social engineering.
--  Knowing the main methodologies, standards and reference frameworks within the Cybersecurity sector such as OWASP, ISO 27001, NIST, among others. And applying them in a real business environment.
-
-- Using the main computer security tools: **Nmap, Zenmap, Wireshark, Kali Linux Penetration Testing and Burp Suite**.
-- Using the advanced tools used in Ethical Hacking and thus creating a protected environment within organizations.
-- Protecting the digital assets of any organization.
+-  Knowing the main methodologies, standards and reference frameworks within the Cybersecurity sector such as OWASP, ISO 27001, NIST, among others. And applying them in a real business environment. Using the main computer security tools: **Nmap, Zenmap, Wireshark, Kali Linux Penetration Testing and Burp Suite**.
+- Using the advanced tools used in Ethical Hacking and thus creating a protected environment within organizations. Protecting the digital assets of any organization.
 
 - Fun fact **I think I'm funny and handsome.**
 - I'm from **Manzanillo, Colima.**
