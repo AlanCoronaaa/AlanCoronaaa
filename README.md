@@ -2,7 +2,7 @@
 <h3 align="center">B.S In Computer Science and Technology</h3>
 <h3 align="center">Tecnológico de Monterrey | Campus Guadalajara</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=b40e40&style=flat-square" alt="alancoronaaa" /> </p>
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>
 - I'm currently learning **Advance C++, machine learning**, giving **Leetcode** hard and implementing an online game.
 - Operating on the basis of Machine Learning in unsupervised models, making use of Clustering models.
 - Creation of language processing models for text classification and sentiment analysis, taking advantage of the foundations of this branch of Deep Learning.
