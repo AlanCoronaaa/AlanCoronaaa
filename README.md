@@ -5,7 +5,8 @@
 
 - I'm currently learning **Advance C++, machine learning**, giving **Leetcode** hard and implementing an online game with his client.
 
--  I am also doing a Cybersecurity and Ethical Hacking Bootcamp, malware analysis, social engineering, Knowing the main methodologies, standards and reference frameworks within the Cybersecurity sector such as OWASP, ISO 27001, NIST, among others. And applying them in a real business environment.
+-  I am also doing a Cybersecurity and Ethical Hacking Bootcamp, malware analysis, social engineering.
+-  Knowing the main methodologies, standards and reference frameworks within the Cybersecurity sector such as OWASP, ISO 27001, NIST, among others. And applying them in a real business environment.
 
 - Using the main computer security tools: **Nmap, Zenmap, Wireshark, Kali Linux Penetration Testing and Burp Suite**.
 - Using the advanced tools used in Ethical Hacking and thus creating a protected environment within organizations.
