@@ -8,9 +8,6 @@
 -  I am also doing a Cybersecurity and Ethical Hacking Bootcamp, malware analysis, social engineering, knowing the main methodologies, standards and reference frameworks within the Cybersecurity sector such as OWASP, ISO 27001, NIST, among others. And applying them in a real business environment. Using the main computer security tools: **Nmap, Zenmap, Wireshark, Kali Linux Penetration Testing and Burp Suite**.
 - Using the advanced tools used in Ethical Hacking and thus creating a protected environment within organizations. Protecting the digital assets of any organization.
 
-- Fun fact **I think I'm funny and handsome.**
-- I'm from **Manzanillo, Colima.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alancoronaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alancoronaa" height="30" width="40" /></a>
