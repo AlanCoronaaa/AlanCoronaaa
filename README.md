@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Corona</h1>
-<h3 align="center">B.S In Computer Science and Technology @Tecnológico de Monterrey</h3>
+<h3 align="center">B.S In Computer Science and Technology</h3>
 <h3 align="center">Tecnológico de Monterrey | Campus Guadalajara</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=b40e40&style=flat-square" alt="alancoronaaa" /> </p>
 
