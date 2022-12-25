@@ -3,7 +3,7 @@
 <h3 align="center">Tecnológico de Monterrey | Campus Guadalajara</h3>
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=b40e40&style=flat-square" alt="alancoronaaa" /> </p>
- <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - I'm currently learning **Advance C++, machine learning**, giving **Leetcode** hard and implementing an online game.
