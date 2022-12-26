@@ -1,12 +1,10 @@
-<h1 align="center"><b>  
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+ <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
        
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <h1 align="center"><b>Hi , I'm Alan Corona </b><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<h1 align="left"><b>
    
 ```python
      #!/usr/bin/python
