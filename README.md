@@ -81,8 +81,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
 <p align="center"> 
-  Visitors :<br>
-  <img src="https://profile-counter.glitch.me/AlanCoronaaa/count.svg" /> :alien:
+  Visitors : :alien:<br>
+  <img src="https://profile-counter.glitch.me/AlanCoronaaa/count.svg" />
 </p>
 <p align="center"> 
  <img align='center' src='https://spotify-github-profile.vercel.app/api/view?uid=122096382&cover_image=true&theme=default'/>
