@@ -84,3 +84,5 @@
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
 </p>
+<p align="center"> 
+ <img align='center' src='https://spotify-github-profile.vercel.app/api/view?uid=122096382&cover_image=true&theme=default'/>
