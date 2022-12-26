@@ -1,4 +1,5 @@
- <a href="https://1999azzar.github.io/1999AZZAR/">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hey!+It's+Alan+Corona!;I'm+a+Software+Engineer...;I'm+a+CRAZY+Hacking+fan;And+I'm+a+proud+Mexican)](https://git.io/typing-svg)
+ 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
        
@@ -34,7 +35,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h3 align="center">Tecnológico de Monterrey | Campus Guadalajara</h3>
  <img src="https://komarev.com/ghpvc/?username=alancoronaaa&label=Profile%20views&color=b40e40&style=flat-square" alt="alancoronaaa" /> </p>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 350px></picture>
 
 - I'm currently learning **Advance C++, machine learning**, giving **Leetcode** hard and implementing an online game.
 - Operating on the basis of Machine Learning in unsupervised models, making use of Clustering models.
