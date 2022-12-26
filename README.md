@@ -3,7 +3,7 @@
        alt="snake" /></a>
        
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<h1 align="center"><b>Hi , I'm Alan Corona </b><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1 align="center"><b>Hi , I'm Alan Corona </b><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> 
 
    
 ```python
@@ -39,9 +39,11 @@
 - I'm currently learning **Advance C++, machine learning**, giving **Leetcode** hard and implementing an online game.
 - Operating on the basis of Machine Learning in unsupervised models, making use of Clustering models.
 - Creation of language processing models for text classification and sentiment analysis, taking advantage of the foundations of this branch of Deep Learning.
-
 -  I am also doing a Cybersecurity and Ethical Hacking Bootcamp, malware analysis, social engineering, knowing the main methodologies, standards and reference frameworks within the Cybersecurity sector such as OWASP, ISO 27001, NIST, among others. And applying them in a real business environment. Using the main computer security tools: **Nmap, Zenmap, Wireshark, Kali Linux Penetration Testing and Burp Suite**.
 - Using the advanced tools used in Ethical Hacking and thus creating a protected environment within organizations. Protecting the digital assets of any organization.
+ 
+ <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3 align="left">Connect with me:</h3>
@@ -94,6 +96,9 @@
 </table>
 
 <br/>
+ 
+[Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
