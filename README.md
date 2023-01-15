@@ -41,7 +41,6 @@
 - Operating on the basis of Machine Learning in unsupervised models, making use of Clustering models.
 - Creation of language processing models for text classification and sentiment analysis, taking advantage of the foundations of this branch of Deep Learning.
 -  I am also doing a 7 months Cybersecurity and Ethical Hacking Bootcamp, malware analysis, social engineering, knowing the main methodologies, standards and reference frameworks within the Cybersecurity sector such as OWASP, ISO 27001, NIST, among others. And applying them in a real business environment. Using the main computer security tools: **Nmap, Zenmap, Wireshark, Kali Linux Penetration Testing and Burp Suite**.
-- Using the advanced tools used in Ethical Hacking and thus creating a protected environment within organizations. Protecting the digital assets of any organization.
  
  <br><br>
 <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
