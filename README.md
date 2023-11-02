@@ -18,10 +18,9 @@
     def __init__(self):
          self.name    = "Alan Corona"
          self.career  = "B.s In Computer Science and Technology"
-         self.university = "Tecnológico de Monterrey"
+         self.university = "Monterrey Institute of Technology and Higher Education"
          self.role    = "SoftWare Engineer"
          self.contact = "alan654gh@gmail.com"
-         self.work    = "Data Scientist and AI, CyberSecurity and Hacking, Software Engineer, Web Developer"
          self.learn   = "Game Programming"
          self.things  = " Go to the gym, video games and anime"
 
