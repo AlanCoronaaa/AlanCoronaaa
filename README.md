@@ -1,7 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hey!+It's+Alan+Corona!;I'm+a+Software+Engineer+Student...;I'm+a+Crazy+Hacking+Fan;And+I'm+a+proud+Mexican)](https://git.io/typing-svg)
  
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+</div>
+
+<hr>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
+</div>
+
+<hr>
+
      
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
