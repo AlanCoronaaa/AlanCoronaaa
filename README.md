@@ -2,7 +2,6 @@
  
 </div>
 
-<hr>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -10,7 +9,6 @@
   </a>
 </div>
 
-<hr>
 
      
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
