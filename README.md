@@ -1,13 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hey!+It's+Alan+Corona!;I'm+a+Software+Engineer+Student...;I'm+a+Crazy+Hacking+Fan;And+I'm+a+proud+Mexican!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hey!+It's+Alan+Corona!;I'm+a+Computer+Science+Student...;I'm+a+Crazy+Hacking+Fan;And+I'm+a+proud+Mexican!)](https://git.io/typing-svg)
+
+</br>
  
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
-<div align="center">
-  <a href="https://1999azzar.github.io/AlanCoronaaa/">
-    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
-  </a>
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
-
      
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
