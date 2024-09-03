@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hey!+It's+Alan+Corona!;I'm+a+Computer+Science+Student...;I'm+a+Crazy+Hacking+Fan;And+I'm+a+proud+Mexican!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hey!+It's+Alan+Corona!;a+Computer+Science+student;Crazy+about+Hacking+...;And+a+proud+Mexican!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </br>
  
