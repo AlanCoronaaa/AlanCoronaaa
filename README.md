@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </br>
  
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AlanCoronaaa/AlanCoronaaa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
      
