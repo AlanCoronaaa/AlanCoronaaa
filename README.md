@@ -6,7 +6,7 @@
  
 </div>
      
-**About me**
+<h3 align="left">About me</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h1 align="center"><b>Hi , I'm Alan Corona </b><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> 
 
@@ -67,8 +67,8 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
 </p>
-📊 Overall Stats
 
+<h3 align="left">Overall Stats:</h3>
  
 <table width="100%"> 
   <tr>
