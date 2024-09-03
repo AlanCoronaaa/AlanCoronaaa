@@ -1,11 +1,15 @@
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hey!+It's+Alan+Corona!;a+Computer+Science+student;Crazy+about+Hacking+...;And+a+proud+Mexican!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </br>
  
   ![Snake animation](https://github.com/AlanCoronaaa/AlanCoronaaa/blob/output/github-contribution-grid-snake.svg)
  
-</div>
-     
+
+
 <h3 align="left">About me</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h1 align="center"><b>Hi , I'm Alan Corona </b><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> 
@@ -85,9 +89,14 @@
 </table>
 
 <br/>
- 
-[Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
+
+
+<h3 align="left"> Jokes Card</h3>
+
+   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
