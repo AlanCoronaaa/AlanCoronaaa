@@ -48,7 +48,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/alancoronaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alancoronaa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/corona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="corona" height="30" width="40" /></a>
-<a href="https://instagram.com/alanlovehitthat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alanlovehitthat" height="30" width="40" /></a>
+<a href="https://instagram.com/alanlovehitthat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alancorona__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
