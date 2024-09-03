@@ -92,7 +92,7 @@
 
 
 
-<h3 align="left"> Jokes Card</h3>
+<h3 align="left"> Jokes Cards:</h3>
 
    ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
