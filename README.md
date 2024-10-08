@@ -21,21 +21,21 @@
     
     class ComputerEngineer:
     def __init__(self):
-         self.name    = "Alan Corona"
+         self.name    = "Alan Corona López"
          self.career  = "B.s In Computer Science and Technology"
-         self.university = "Monterrey Institute of Technology and Higher Education"
-         self.role    = "SoftWare Engineer"
+         self.university = "Tecnológico de Monterrey"
+         self.role    = "Student"
          self.contact = "alanlopez76203@gmail.com"
-         self.learn   = "Game Programming"
-         self.things  = " Go to the gym, video games and anime"
+         self.learn   = "Game Programming, Web development, Algorithms, Ethical Hacking"
+         self.things  = "Go to the gym, play video games and watch anime"
 
     def getCity(self):
         return Guadalajara_Mexico()
 
-    class SoftwareEngineer:
+    class SoftwareEngineerStudent:
      pass
 
-    me = SoftwareEngineer()
+    me = SoftwareEngineerStudent()
     
     if __name__ == '__main__':
 ```
