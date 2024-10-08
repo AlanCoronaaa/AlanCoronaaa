@@ -105,21 +105,16 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   
- <!-- PyCharm -->
+<!-- PyCharm -->
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/>
+  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" width="40" height="40"/>
 </a>
 
 <!-- CLion -->
 <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/CLion_Icon.svg" alt="clion" width="40" height="40"/>
+  <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="clion" width="40" height="40"/>
 </a>
 
-<!-- MS Office -->
-<a href="https://www.office.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Logo_%282019%E2%80%93present%29.svg" alt="office" width="40" height="40"/>
-</a>
-</p>
 
 <h3 align="left">Overall Stats:</h3>
  
