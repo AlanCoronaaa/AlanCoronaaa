@@ -100,19 +100,33 @@ Here are some of the tools and technologies I work with:
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class AlanCorona:
+class ComputerEngineer:
     def __init__(self):
         self.name = "Alan Corona López"
         self.career = "B.S. in Computer Science and Technology"
         self.university = "Tecnológico de Monterrey"
         self.role = "Student"
         self.contact = "alanlopez76203@gmail.com"
-        self.skills = ["Game Programming", "Web Development", "Algorithms", "Ethical Hacking"]
-        self.hobbies = ["Go to the gym", "Play video games", "Watch anime"]
-        self.city = "Guadalajara, Mexico"
+        self.learn = "Game Programming, Web Development, Algorithms, Ethical Hacking"
+        self.things = "Go to the gym, play video games, and watch anime"
 
-if __name__ == "__main__":
-    me = AlanCorona()
+    def get_city(self):
+        return "Guadalajara, Mexico"
+
+class SoftwareEngineerStudent(ComputerEngineer):
+    def __init__(self):
+        super().__init__()
+
+if __name__ == '__main__':
+    me = SoftwareEngineerStudent()
+    print(f"Name: {me.name}")
+    print(f"Career: {me.career}")
+    print(f"University: {me.university}")
+    print(f"Role: {me.role}")
+    print(f"Contact: {me.contact}")
+    print(f"Learning: {me.learn}")
+    print(f"Things I like: {me.things}")
+    print(f"City: {me.get_city()}")
 
 ```
 
