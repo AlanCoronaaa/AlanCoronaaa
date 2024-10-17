@@ -1,7 +1,7 @@
 
-# Hi, I'm Alan Corona López! 👋
+<h1 align="center"> Hi, I'm Alan Corona López! 👋 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hey!+I'm+Alan+Corona;Computer+Science+Student;I+Love+Coding+and+Ethical+Hacking;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=;Computer+Science+Student;I+Love+Coding+and;Ethical+Hacking;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
 
