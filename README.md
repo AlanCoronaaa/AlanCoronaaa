@@ -5,13 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hi,;CS+Student+and+Developer;Passionate+about+Tech;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 
-
----
 </br>
  
   ![Snake animation](https://github.com/AlanCoronaaa/AlanCoronaaa/blob/output/github-contribution-grid-snake.svg)
 
----
 
 ### 🌟 About Me
 I'm a **Computer Science student** at **Tecnológico de Monterrey**, passionate about:
@@ -25,7 +22,6 @@ I'm a **Computer Science student** at **Tecnológico de Monterrey**, passionate 
 ### 📍 Location:
 **Guadalajara, Mexico**
 
----
 
 ### 🔧 Skills
 Here are some of the tools and technologies I work with:
@@ -92,7 +88,7 @@ Here are some of the tools and technologies I work with:
   </a>
 </p>
 
----
+
 
 ### 💼 Experience (Python Code):
 
@@ -134,11 +130,6 @@ if __name__ == '__main__':
     print(f"City: {me.get_city()}")
 ```
 
-
-
-
----
-
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alancoronaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alancoronaa" height="30" width="40" /></a>
@@ -146,7 +137,7 @@ if __name__ == '__main__':
 <a href="https://instagram.com/alancorona__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alancorona__" height="30" width="40" /></a>
 </p>
 
----
+
 
 <h3 align="left">📊  Overall Stats:</h3>
  
@@ -166,14 +157,12 @@ if __name__ == '__main__':
 
 <br/>
 
----
+
 
 <h3 align="left">😄  Jokes Cards:</h3>
 
    ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
-
----
 
 <h3 align="center"> Visitors : :alien:<br> <img src="https://profile-counter.glitch.me/AlanCoronaaa/count.svg" /> </h3>
