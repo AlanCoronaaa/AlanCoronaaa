@@ -2,7 +2,7 @@
 
 # Hi, I'm Alan Corona López! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hi,+I'm+Alan!;CS+Student+and+Developer;Passionate+about+Tech;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=196F3D&size=30&lines=Hi,;CS+Student+and+Developer;Passionate+about+Tech;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 
 
@@ -101,19 +101,24 @@ Here are some of the tools and technologies I work with:
 # -*- coding: utf-8 -*-
 
 class ComputerEngineer:
+    """Base class."""
+    
     def __init__(self):
         self.name = "Alan Corona López"
         self.career = "B.S. in Computer Science and Technology"
         self.university = "Tecnológico de Monterrey"
         self.role = "Student"
         self.contact = "alanlopez76203@gmail.com"
-        self.learn = "Game Programming, Web Development, Algorithms, Ethical Hacking"
-        self.things = "Go to the gym, play video games, and watch anime"
+        self.learn = ["Game Programming", "Web Development", "Algorithms", "Ethical Hacking"]
+        self.things = ["Go to the gym", "Play video games", "Watch anime"]
 
     def get_city(self):
+        """Returns the city where I live."""
         return "Guadalajara, Mexico"
 
 class SoftwareEngineerStudent(ComputerEngineer):
+    """Derived class representing a software engineering student."""
+    
     def __init__(self):
         super().__init__()
 
@@ -124,10 +129,9 @@ if __name__ == '__main__':
     print(f"University: {me.university}")
     print(f"Role: {me.role}")
     print(f"Contact: {me.contact}")
-    print(f"Learning: {me.learn}")
-    print(f"Things I like: {me.things}")
+    print(f"Learning: {', '.join(me.learn)}")
+    print(f"Things I like: {', '.join(me.things)}")
     print(f"City: {me.get_city()}")
-
 ```
 
 
